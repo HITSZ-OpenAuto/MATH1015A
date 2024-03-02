@@ -1,0 +1,3 @@
+category: 必修
+semester: 第一学年秋季
+name: 微积分A
