@@ -1,0 +1,123 @@
+ID: "MATH1015A"
+SimilarID: []
+Name: "微积分A"
+CourseProperty:
+  Major:
+    - Year: "2021_2022"
+      Name: ["工科试验班（计算机与电子通信）", "工科试验班（空天科技）"]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大一"
+      Semester: "春"
+  CourseType: "必修"
+  CourseID: "MATH1015A"
+  CourseName: "微积分A"
+  Credit: 5.0
+  CourseHour: 80
+  GPAInfluence: "核心权重"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: 作业
+      Percentage: 20
+    - Name: 期中考试
+      Percentage: 30
+    - Name: 期末考试
+      Percentage: 50
+  CourseHourComposition:
+    - Name: 授课
+      Hour: 80
+Major:
+  - Year: "2022_2023"
+    CourseProperty:
+      Major:
+        - Year: "2022_2023"
+          Name: ["工科试验班（计算机与电子通信）", "工科试验班（空天科技）"]
+          Degree: "本"
+      GradeSemesters:
+        - Grade: "大一"
+          Semester: "春"
+      CourseType: "必修"
+      CourseID: "MATH1015A"
+      CourseName: "微积分A"
+      Credit: 5.0
+      CourseHour: 80
+      GPAInfluence: "核心权重"
+      GroupCourse:
+        Link: ""
+        Desc: ""
+        Name: ""
+        Ids: ["", "", ""]
+      GradeComposition:
+        - Name: 作业
+          Percentage: 20
+        - Name: 期中考试
+          Percentage: 30
+        - Name: 期末考试
+          Percentage: 50
+      CourseHourComposition:
+        - Name: 授课
+          Hour: 80
+  - Year: "2023_2024"
+    CourseProperty:
+      Major:
+        - Year: "2023_2024"
+          Name: ["工科试验班（计算机与电子通信）", "工科试验班（空天科技）"]
+          Degree: "本"
+      GradeSemesters:
+        - Grade: "大一"
+          Semester: "春"
+      CourseType: "必修"
+      CourseID: "MATH1015A"
+      CourseName: "微积分A"
+      Credit: 5.0
+      CourseHour: 80
+      GPAInfluence: "核心权重"
+      GroupCourse:
+        Link: ""
+        Desc: ""
+        Name: ""
+        Ids: ["", "", ""]
+      GradeComposition:
+        - Name: 作业
+          Percentage: 20
+        - Name: 期中考试
+          Percentage: 30
+        - Name: 期末考试
+          Percentage: 50
+      CourseHourComposition:
+        - Name: 授课
+          Hour: 80
+  - Year: "2024_2025"
+    CourseProperty:
+      Major:
+        - Year: "2024_2025"
+          Name: ["工科试验班（计算机与电子通信）", "工科试验班（空天科技）"]
+          Degree: "本"
+      GradeSemesters:
+        - Grade: "大一"
+          Semester: "春"
+      CourseType: "必修"
+      CourseID: "MATH1015A"
+      CourseName: "微积分A"
+      Credit: 5.0
+      CourseHour: 80
+      GPAInfluence: "核心权重"
+      GroupCourse:
+        Link: ""
+        Desc: ""
+        Name: ""
+        Ids: ["", "", ""]
+      GradeComposition:
+        - Name: 作业
+          Percentage: 20
+        - Name: 期中考试
+          Percentage: 30
+        - Name: 期末考试
+          Percentage: 50
+      CourseHourComposition:
+        - Name: 授课
+          Hour: 80
