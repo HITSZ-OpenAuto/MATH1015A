@@ -4,44 +4,45 @@ course_code = "MATH1015A"
 
 description = "本篇适合高中有微积分基础的同学。"
 
-[[lecturers]]
+[lecturers]
+[[lecturers.items]]
 name = "张彪"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = """
 上课无考勤。
 上课用全板书无 ppt，注重对概念的深入讲解，对定理的必要证明及历史背景会详细介绍，整体而言讲的比较慢，但很清晰。如果已经会了知识点可不听，直接往后看书或者刷题（但挺有意思的，还是可听听）。
 答疑特别友好，直接找任课老师，老师甚至觉得助教太忙，有事可以直接找他，也不需要去办公室，直接微信问就好了，非常良心的老师！
 """
 
-[[lecturers]]
+[[lecturers.items]]
 name = "余君武"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = """
 上课无考勤，使用 PPT + 板书，但板书略显杂乱。
 老师说话有口音，但是听上去还不错，课堂很有意思，课下答疑也讲解得非常好。
 个别地方的讲解节奏会比较快，因此上课时建议集中精神，或者提前预习。
 """
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = "上课挺有意思，课堂氛围挺活跃的一个老师，我特别喜欢听他上课，对学生也很负责，很乐意回答学生提出的问题。"
 author = { name = "psp_dada", link = "https://github.com/pspdada", date = "2024-07" }
 
-[[lecturers]]
+[[lecturers.items]]
 name = "杨国俅"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = """
 上课用板书，而且板书非常清楚。上课节奏适中，会补充一些课本跳过的内容让学习过程更流畅。
 每学期期中和期末的全校统一的习题课都是杨老师开设的，答疑找他就对了。
 许多其他班级的同学会特意去听杨老师的课，甚至是早八也能教室坐满同学。
 """
 
-[[lecturers]]
+[[lecturers.items]]
 name = "袁惠芳"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = """
 纯板书，上课不考勤，但是习题课会抽人上台做题代替考勤。
 上课时对着讲义念一遍，时常会卡壳，而且提问时往往会被问住。课下答疑时比上课更好一些，但不多。
