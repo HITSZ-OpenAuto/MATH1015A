@@ -136,5 +136,7 @@ content = """
 
 除非高中已经学完了微积分/数学分析，否则不建议高考后备考先修考试。要想在短短两个月考到 80 分以上，需要至少达到考研水平乃至大学生数学竞赛非数 A 类决赛水平，对于刚刚高考完的同学来说难度非常大。
 """
-author = [{ name = "YinMo19", link = "https://github.com/YinMo19", date = "2024-05" },
-{ name = "Fun10165", link = "https://github.com/Fun10165", date = "2026-01" }]
+author = [
+  { name = "YinMo19", link = "https://github.com/YinMo19", date = "2024-05" },
+  { name = "Fun10165", link = "https://github.com/Fun10165", date = "2026-01" },
+]
