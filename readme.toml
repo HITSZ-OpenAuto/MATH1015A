@@ -1,10 +1,10 @@
 course_name = "微积分A"
-repo_type = "normal"
 course_code = "MATH1015A"
-
+repo_type = "normal"
 description = "本篇适合高中有微积分基础的同学。"
 
 [lecturers]
+
 [[lecturers.items]]
 name = "张彪"
 
@@ -49,7 +49,6 @@ content = """
 建议不要听课，课下有问题找她就行了。
 """
 
-
 [[sections]]
 title = "教材与在线资源"
 
@@ -69,7 +68,6 @@ title = "关于作业"
 [[sections.items]]
 content = "作业的话，一般都在 18 分以上，除非个别很难忍，给 17。一定要及时交，不交 0 分，交了至少 17。但作业批改随便，比如积分的时候，答案有很多形式，但助教不会帮你看，可能和助教不一样就会判错，书写也会影响分数。"
 
-
 [[sections]]
 title = "关于考试"
 
@@ -81,7 +79,7 @@ content = """
 
 期中考试平均分大约在 23 左右，最高分 30；期末考试平均分大约在 40 左右，最高分 50。挂科率大约在 2% 左右。
 
-高数特有的老师每学期会将以前的考试原题和解析发出来，所以资料很充足  
+高数特有的老师每学期会将以前的考试原题和解析发出来，所以资料很充足
 """
 author = { name = "psp_dada", link = "https://github.com/pspdada", date = "2024-07" }
 
